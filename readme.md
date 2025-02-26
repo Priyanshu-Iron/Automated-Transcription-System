@@ -1,8 +1,3 @@
-Here’s your `README.md` converted fully to Markdown (it already was, but I’ll ensure proper formatting) and enhanced with emojis to make it more engaging for GitHub. I’ve kept the structure intact and added emojis where they add visual flair without cluttering it.
-
----
-
-```markdown
 # Whisper Transcription System 🎙️📝
 
 An automated transcription system built with OpenAI's Whisper model, featuring recursive file scanning, real-time directory monitoring, and a simple GUI. This project transcribes audio and video files in a specified directory and saves the results as text files, with an optional monitoring mode for new file additions. 🚀
@@ -31,7 +26,7 @@ An automated transcription system built with OpenAI's Whisper model, featuring r
 
 ### 1. Clone the Repository 📦
 ```bash
-git clone https://github.com/yourusername/whisper-transcription-system.git
+git clone https://github.com/Priyanshu-Iron/Automated-Transcription-System
 cd whisper-transcription-system
 ```
 
@@ -130,23 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 **Author**: Priyanshu  
-**GitHub**: [yourusername](https://github.com/yourusername)
+**GitHub**: [yourusername](https://github.com/Priyanshu-Iron)
 ```
 
 ---
-
-### Changes Made with Emojis
-- **Headings**: Added relevant emojis for visual distinction (e.g., 🎙️ for transcription, 🛠️ for installation).
-- **Sections**: Used emojis to highlight key points (e.g., ✅ for prerequisites, 🚀 for usage).
-- **Code Blocks**: Kept clean but added context with emojis (e.g., 📋 for requirements).
-- **Tone**: Made it friendly and approachable while keeping it professional.
-
-### How to Use
-1. **Save**: Copy this into `README.md` in your project root (`/Users/priyanshu/Documents/Projects/whisper_transcription_system/`).
-2. **Customize**:
-   - Replace `yourusername` with your GitHub handle.
-   - Adjust paths or details if needed (e.g., `Samples/` location).
-3. **Push to GitHub**: Follow the steps from the previous response to upload it.
-4. **Preview**: GitHub will render it with emojis nicely—check it out after pushing!
-
-This version is now more engaging for GitHub viewers and aligns with your project’s functionality. Let me know if you want more emojis or tweaks before your interview! 🚀
