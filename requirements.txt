@@ -1,0 +1,16 @@
+# Core dependencies
+openai-whisper>=20231117        # OpenAI's Whisper for audio/video transcription
+watchdog>=2.3.1                 # For real-time directory monitoring
+tk>=0.1.0                       # Tkinter for GUI (usually bundled with Python, version may vary)
+
+# Additional dependencies required by Whisper
+torch>=2.0.0                    # PyTorch, Whisper's core ML framework
+numpy>=1.20.0                   # Numerical operations, used by Whisper/Torch
+tqdm>=4.64.1                    # Progress bars in Whisper
+
+# System dependency (not a Python package)
+# ffmpeg                         # Required for video file processing; install via system package manager (e.g., brew install ffmpeg)
+# Note: Whisper uses the ffmpeg binary directly, not ffmpeg-python. Install it separately:
+#   - macOS: brew install ffmpeg
+#   - Linux: sudo apt-get install ffmpeg
+#   - Windows: Download from ffmpeg.org and add to PATH
