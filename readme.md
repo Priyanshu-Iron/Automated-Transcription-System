@@ -125,7 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 **Author**: Priyanshu  
-**GitHub**: [yourusername](https://github.com/Priyanshu-Iron)
+**GitHub**: [Priyanshu-Iron](https://github.com/Priyanshu-Iron)
 ```
 
 ---
